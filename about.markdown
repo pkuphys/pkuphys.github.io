@@ -13,6 +13,7 @@ layout: page
 
 不过，回忆型题材向来是照单全收的 :)
 <br><br><br>
-___
+
+***
 managed by asymmetry <br>
 powered by jekyll | themed by [sext vi](http://lhzhang.com)
