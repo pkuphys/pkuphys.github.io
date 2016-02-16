@@ -1,4 +1,4 @@
-﻿---
+---
 title: Dialog
 author: 骡子
 layout: post
