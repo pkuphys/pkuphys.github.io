@@ -1,13 +1,12 @@
+markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: rouge
-permalink: /:year/:month/:day/:title.html
-name: "某校某院某级某班博文录"
 
+name: "某校某院某级某班博文录"
 author: "我们"
 
-comments:
-  provider: duoshuo
-  duoshuo:
-    short_name: pkuphys
+permalink: /:year/:month/:day/:title.html
 
 navigations:
   - title: Archive
@@ -20,3 +19,7 @@ navigations:
     name: ABOUT
     href: /about.html
 
+comments:
+  provider: duoshuo
+  duoshuo:
+    short_name: pkuphys

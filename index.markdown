@@ -12,8 +12,8 @@ layout: default
     <section class="meta">
     <span class="time">
       <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-      </span>
-	{% if post.author %}
+    </span>
+    {% if post.author %}
     <span class="tags"> by {{ post.author }}
     </span>
     {% endif %}
@@ -34,12 +34,12 @@ layout: default
   <div class="divider"></div>
   <ul class="listing main-listing">
     <li>博文目录</i>
-  {% for post in site.posts %}
+    {% for post in site.posts %}
     {% capture y %}{{ post.date | date:"%Y"}}{% endcapture %}
     <li class="listing-item">
       <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
       <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
     </li>
-  {% endfor %}
+    {% endfor %}
   </ul>
 </div>
