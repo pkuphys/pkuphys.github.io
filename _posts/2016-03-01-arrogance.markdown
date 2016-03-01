@@ -1,5 +1,5 @@
 ---
-title: 21世纪狂人日记: 谁敢说我谦虚？
+title: 21世纪狂人日记：谁敢说我谦虚？
 author: 骡子
 layout: post
 tags:
