@@ -20,7 +20,7 @@ tags:
 [2] 吸血魔兽:《数码宝贝》boss之一,曾入侵现实世界想要杀死第八个被选召的孩子<br>
 [3] google glass: 《电脑coil》里的电脑眼镜<br>
 [4] 电子宠物，管理员沙奇，古旧空间，Meta bug: 出自《电脑coil》。<br>
-[5] 《cowboy bebop》: 星际牛仔<br>
+[5] 《cowboy bebop》: 《星际牛仔》<br>
 [6] 《ghost in the shell》: 《攻壳机动队》<br>
 [7] 指《电脑coil》里的电脑眼镜<br>
 [8] 指通过后颈插头联入网络世界,出自《攻壳机动队》和《黑客帝国》<br>
