@@ -105,7 +105,7 @@ tags:
 [8] 当DNA出现断裂，生物会试图以互补的序列作为模版来修复DNA。CRISPR/Cas9被用于精确切割需要编辑的DNA片段；实验者同时向细胞提供新的、和旧序列互补的DNA序列，细胞就会依照新序列修复DNA，完成基因编辑。<br>
 [9] Gene Drive 是一种基于CRISPR/Cas9基因编辑系统的、被提出用于根除传播疾病的蚊虫等病原体的基因武器。它的炸裂性可以从某篇论文中为其起的名字“突变链式反应” 看出。甚至连合成生物学的“教父”George M. Church都认为这种技术“走得太远”。这个技术里，CRISPR/Cas9系统不仅仅把需要修改的基因加入细胞的基因组，而且会把自己的整个序列都一 起放进靶点，实现病毒般的自我繁殖。这样，所有被修改的生物的后代都会带上同样的新片段，而不会出现孟德尔定律中的性状分离。在这样的机制下，即使是演化 上非常不利的性状也能很快纯化整个种群。<br>
 
-这些注释参考了以下来源，它们都是些简单易懂的科普，有兴趣可以读读玩。
+这些注释参考了以下来源，它们都是些简单易懂的科普，有兴趣可以读读玩。<br>
 [百度百科－crispr/cas9](http://baike.baidu.com/link?url=cmwMOFHBGT- K6tTAO7Qc4jcInmb2-OQnzxZUMTjCdbOCS_LLZuW6UyXhdq3oVDswxPmjl- OQgQgz8lFXSm_dXa)<br>
 [百度百科－红皇后假说](http://www.baike.com/wiki/%E7%BA%A2%E8%89%B2%E7%9A%87%E5%90%8E%E7%90%86%E8%AE%BA?prd=zhengwenye_left_tongyici)<br>
 [果壳网－四位科学家的转基因圆桌谈（下）](http://www.guokr.com/article/440750/)<br>
