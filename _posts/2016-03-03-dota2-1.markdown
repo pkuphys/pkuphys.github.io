@@ -1,0 +1,36 @@
+---
+title: Investigation of Drafting and Team Strategies in DOTA2 Game
+author: PKUGoodSpeed
+layout: post
+tags:
+  - DOTA
+---
+
+### Abstract
+Defense of the Ancients-two (DOTA2) has become one of the most popular multiplayer battle arena computer games in recent years. In this study, we have investigated the methodology for picking proper hero drafts in the game. We also discuss how to apply those heroes to win a game with your teammates. Our discussion will be confined in the version 6.81 - 6.82.
+
+### Section I: Introduction
+Defense of the Ancients-two (DOTA2) is a free-to-play multiplayer online battle arena (MOBA) video game developed and published by Valve Corporation [[1]](#Reference). It was developed from Defense of the Ancients [[2]](#Reference) (DOTA or DOTA1), a mod for Warcraft III - The Frozen Throne. DOTA2 has become one of the most actively played games on Steam, with maximum peaks of over a million concurrent players [[3]](#Reference).
+
+DOTA2 is played by two teams against each other, with each team containing five players. Every player can pick an arbitrary character from 111 playable Heroes that feature unique style and skills. A team wins by destroying the other sides' base (i.e. ancient buildings), located within the upper-right or bottom-left of the map. As a result, picking a proper hero combination is crucial for winning the game. However, up to now, no body has systematically discussed about the methodology of picking proper hero drafts.
+
+Nevertheless, a good hero combination cannot guarantee a win. Many more factors can affect the final results. A good laning strategy can help you to get economic advantages in the early game. Successful team fights provide you with higher probability to win in the late game.
+
+We systematically investigate the hero pick phase as well as the laning and team fight strategies. Sec II discusses the methodology for picking proper hero combinations. Sec III describes some laning strategies and how to laugh a successful team fight. Sec IV, further discussion and future works.
+
+### Section II: Methodology for Hero Picking
+First of all, you cannot pick heroes at will in a DOTA2 game. There are game modes, a set of restrictions confining how players pick heroes. The mostly played game mode is "all pick" (AP), in which people can select any heroes from the character pool without repetition. However, AP mode sometimes can break the balance of the game or cause some bug. Instead, Captains mode (CM) is the standard format for the tournament games. In the CM mode, each team has a captain who selects bans for certain heroes, preventing either team from picking them and chooses five heroes for their team before the game begins. Each player then chooses a hero from his/her captain’s selection.
+
+A proper DOTA hero draft is generally constructed by five different positions, according to the 1-to-5 model [[4]](#Reference). The lower the number, the higher priority they have on farming gold and experience. Different positions do different jobs to benefit the whole team.
+
+Heroes suitable for sitting in the first position is also called hard carries who have the highest priority to get experiences and gold in the team. As a result, their task is to provide main damage output and destroy enemy buildings in the late game. There are several popular hard carry heroes in version 6.81 - 6.82, such as Juggernaut, Luna and Spectre. A well-farmed Juggernaut is very powerful in the team fights during early, mid or even late games. The Blade Fury (the first skill) provides Juggernaut strong survival ability and the Omni-slash (the ultimo) enables him to produce huge damage output during team fight or kill an enemy hero immediately. Luna is good for team push since she has the Moon Glaive (the second skill) and Lunar Blessing (the aura), which give her ability to quickly destroy enemy building. A Spectre is advantageous in very late games. He has the Desolate (the second skill) that deals pure damages and the Dispersion (the third skill) that makes him extremely tanky against enemy attacks.
+
+The second position heroes usually take up the mid-lane from the early stage. They have the second most need for gold and levels. Their task is launching team fights and carrying the whole team during mid games. Most popular mid-solo hero in version 6.81 - 6.82 is Shadow Fiend. It has the Shadow-raze (the first skill), which deal damage in different distances, enabling Shadow Fiend to effectively gank and farm in high speed. The ultimo Requiem of Souls is one of the most powerful skills in team fights, which deals tons of damage toward enemy heroes immediately. My favorite second position hero is Templar Assassin, a very short-ranged agility hero capable of dealing huge bursts of physical damage to swathes of enemies with expert positioning and timing. Unlike most physical damage dealers, TA reaches her damage potential quite early and then scales up from that point with carry items. Her short attack range increases from being comparable to that of a melee hero to a ranged hero with short reach as she levels up Psi Blades (the passive skill).
+
+To be continued...
+
+### Reference
+[1] [https://en.wikipedia.org/wiki/Dota_2](https://en.wikipedia.org/wiki/Dota_2) <br>
+[2] [https://en.wikipedia.org/wiki/Defense_of_the_Ancients](https://en.wikipedia.org/wiki/Defense_of_the_Ancients) <br>
+[3] Whittaker, Matt. “Dota 2 Hits One Million Concurrent Users on New Engine”. Hardcore Gamer. <br>
+[4] [http://www.liquiddota.com/forum/dota-2-strategy/454943-dota-1-to-5-system](http://www.liquiddota.com/forum/dota-2-strategy/454943-dota-1-to-5-system)
