@@ -33,7 +33,7 @@ layout: default
   </ul>
   <div class="divider"></div>
   <ul class="listing main-listing">
-    <li>博文目录</i>
+    <li>博文目录</li>
     {% for post in site.posts %}
     {% capture y %}{{ post.date | date:"%Y"}}{% endcapture %}
     <li class="listing-item">
