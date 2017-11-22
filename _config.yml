@@ -21,6 +21,4 @@ navigations:
     href: /about.html
 
 comments:
-  provider: duoshuo
-  duoshuo:
-    short_name: pkuphys
+  provider: livere

@@ -1,6 +1,6 @@
 {% case site.comments.provider %}
-{% when "duoshuo" %}
-  {% include social/duoshuo %}
+{% when "livere" %}
+  {% include social/livere %}
 {% when "disqus" %}
   {% include social/disqus %}
 {% endcase %}
