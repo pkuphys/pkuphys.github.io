@@ -3,7 +3,7 @@ title: Investigation of Drafting and Team Strategies in DOTA2 Game
 author: PKUGoodSpeed
 layout: post
 tags:
-  - 电子竞技
+  - 电子竞技
 ---
 
 ### Abstract
