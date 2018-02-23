@@ -2,12 +2,12 @@
 开始只是跟着公司一起用，后来发现Dropbox的这个新功能确实蛮好用，强于Google dox，尤其适用于多人合作完成某项Task。
 
 
-- **如何 login Dropbox 我就不讲了，是个人应该都会。**
-- **建立文件夹：**
+- *如何 login Dropbox 我就不讲了，是个人应该都会。*
+- *建立文件夹：*
   - 如下图，没啥好说的
 ![We can add caption here](https://d2mxuefqeaa7sj.cloudfront.net/s_787603B506DD1AD55C342FC47A27748AD25CBA3D7F0A10A40438325E02D88947_1507016596118_dropbox_folder.png)
 
-- **建立文档：**
+- *建立文档：*
 
 文档主要分两种：doc 跟 meeting notes: (如下图)
 
