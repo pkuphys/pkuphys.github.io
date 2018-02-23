@@ -38,31 +38,31 @@
 
 **H3**
 
-    **4，Task**：可以assign给某个人或多个人一个task：type []空格
+    *4，Task*：可以assign给某个人或多个人一个task：type []空格
     [x] this is a new task 
     [x] this is a completed task @Zebo L
     首先被 assign 的人会收到提示
 ![notifications](https://d2mxuefqeaa7sj.cloudfront.net/s_787603B506DD1AD55C342FC47A27748AD25CBA3D7F0A10A40438325E02D88947_1507019180301_Screen+Shot+2017-10-03+at+1.26.01+AM.png)
 
     check 那个 box 之后，表示这个task已经完成
-    **5，可以爱特某人**：
+    *5，可以爱特某人*：
      @Zebo L ,被 at 的人也会收到提示，如上。（用这些快捷键之前，先把输入法切成英文，否则你
     输入100个中文@，也 at 不了半个人）
-    **6，可以加入comment：**
+    *6，可以加入comment：*
     右边有选项，鼠标点即可
-    **7，输出为文件**：word or markdown，如下图
+    *7，输出为文件*：word or markdown，如下图
 ![export as afile](https://d2mxuefqeaa7sj.cloudfront.net/s_787603B506DD1AD55C342FC47A27748AD25CBA3D7F0A10A40438325E02D88947_1507019854450_Screen+Shot+2017-10-03+at+1.35.42+AM.png)
 
-    **8，可以将文档move到folder里面：**
+    *8，可以将文档move到folder里面：*
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_787603B506DD1AD55C342FC47A27748AD25CBA3D7F0A10A40438325E02D88947_1507020598234_Screen+Shot+2017-10-03+at+1.48.45+AM.png)
 
     
-- **记得share！！**（就是点右上角的 Invite）
+- *记得share！！*（就是点右上角的 Invite）
     这样大家都可以编辑，不会卡（google doc有点卡）
     Doc 跟 folder 都可以被share
 
 
-- **其他：**
+- *其他：*
 
 另外可以插入链接，比较常用（公司经常用）的是插入其他dropbox paper的链接
 右上角点search，输入sample，会用很多sample doc，比如：
@@ -75,6 +75,6 @@
 如果有什么不懂的可以参考：https://www.dropbox.com/help/desktop-web
 
 
-- **总之，很简单，一学就会。（如果学不会，我就要鄙视你的智商了！）**
+- *总之，很简单，一学就会。（如果学不会，我就要鄙视你的智商了！）*
 
 
