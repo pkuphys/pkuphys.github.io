@@ -3,7 +3,7 @@ title: Dropbox paper使用秘籍
 author: Zebo
 layout: post
 tags:
-  - 码农天地
+  - 码农天地
 ---
 
 开始只是跟着公司一起用，后来发现Dropbox的这个新功能确实蛮好用，强于Google dox，尤其适用于多人合作完成某项Task。
